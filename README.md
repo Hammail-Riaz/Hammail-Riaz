@@ -14,6 +14,13 @@
 - Learning deeper backend concepts with Python.
 - Exploring frameworks like **Flask** and **Django**.
 - Improving my 2D game development skills using **Pygame**.
+- 
+## 🛣️ Future Plans
+
+- 🚀 Deepen my understanding of backend development in Python using **Flask**, **Django**, and **FastAPI**
+- 🌐 Learn **JavaScript** as a secondary language to enhance my frontend web development skills
+- 🧩 Build full-stack web applications by combining **Python (backend)** and **JavaScript (frontend)**
+- 🎮 Continue improving my **2D game development** skills using **Pygame**
 
 ## 💡 Fun Fact
 - I enjoy blending creativity with code — whether in web apps or fun little games!
